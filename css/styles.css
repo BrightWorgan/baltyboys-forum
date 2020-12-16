@@ -1,0 +1,14 @@
+#title {
+  background-color: #17a2b8;
+}
+
+h1 {
+  font-family: "Philosopher";
+  font-size: 3rem;
+  line-height: 1.5;
+  /*<link rel="preconnect" href="https://fonts.gstatic.com"> <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap" rel="stylesheet">*/
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
