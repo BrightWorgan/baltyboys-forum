@@ -13,3 +13,35 @@ h1 {
 /* .container-fluid {
   padding: 3% 15%;
 } */
+
+body {
+  font-family: "Philosopher"
+}
+
+
+/*
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Philosopher";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Philosopher";
+}*/
+
+
+/*Download Buttons*/
+
+.main-button {
+  margin: 5% 3% 5% 0%;
+}
+
+#footer {
+  background-color: #1e91a3;
+}
